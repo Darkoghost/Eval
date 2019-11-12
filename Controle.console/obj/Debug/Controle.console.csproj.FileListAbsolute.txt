@@ -1,0 +1,15 @@
+C:\Users\jujui\source\repos\Controle.console\Controle.console\bin\Debug\Controle.console.exe.config
+C:\Users\jujui\source\repos\Controle.console\Controle.console\bin\Debug\Controle.console.exe
+C:\Users\jujui\source\repos\Controle.console\Controle.console\bin\Debug\Controle.console.pdb
+C:\Users\jujui\source\repos\Controle.console\Controle.console\bin\Debug\Controle.ORM.dll
+C:\Users\jujui\source\repos\Controle.console\Controle.console\bin\Debug\EntityFramework.dll
+C:\Users\jujui\source\repos\Controle.console\Controle.console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jujui\source\repos\Controle.console\Controle.console\bin\Debug\Controle.ORM.pdb
+C:\Users\jujui\source\repos\Controle.console\Controle.console\bin\Debug\Controle.ORM.dll.config
+C:\Users\jujui\source\repos\Controle.console\Controle.console\bin\Debug\EntityFramework.xml
+C:\Users\jujui\source\repos\Controle.console\Controle.console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jujui\source\repos\Controle.console\Controle.console\obj\Debug\Controle.console.csprojAssemblyReference.cache
+C:\Users\jujui\source\repos\Controle.console\Controle.console\obj\Debug\Controle.console.csproj.CoreCompileInputs.cache
+C:\Users\jujui\source\repos\Controle.console\Controle.console\obj\Debug\Controle.console.csproj.CopyComplete
+C:\Users\jujui\source\repos\Controle.console\Controle.console\obj\Debug\Controle.console.exe
+C:\Users\jujui\source\repos\Controle.console\Controle.console\obj\Debug\Controle.console.pdb

@@ -1,0 +1,16 @@
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\bin\Debug\Controle.ORM.dll.config
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\bin\Debug\Controle.ORM.dll
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\bin\Debug\Controle.ORM.pdb
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\bin\Debug\EntityFramework.dll
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\bin\Debug\EntityFramework.xml
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\obj\Debug\Controle.ORM.csprojAssemblyReference.cache
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\obj\Debug\Controle.ORM.csproj.CoreCompileInputs.cache
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\obj\Debug\Controle.ORM.csproj.CopyComplete
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\obj\Debug\Controle.ORM.dll
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\obj\Debug\Controle.ORM.pdb
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\obj\Debug\Controle.ORM.Migrations.add_intervenant_intervention.resources
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\obj\Debug\Controle.ORM.csproj.GenerateResource.cache
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\obj\Debug\Controle.ORM.Migrations.add_lereste.resources
+C:\Users\jujui\source\repos\Controle.console\Controle.ORM\obj\Debug\Controle.ORM.Migrations.add_final.resources
